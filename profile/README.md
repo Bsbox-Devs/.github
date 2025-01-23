@@ -13,7 +13,7 @@
     <tr>
       <td>1</td>
       <td><a href="https://github.com/Bsbox-Devs/amir-osiris-projects">amir-osiris-projects-projects</a></td>
-      <td><a href="https://github.com/amir-osiris">AmirOSiRis</a></td>
+      <td><a href="https://github.com/amir-osiris">aMirOSiRis</a></td>
       <td>0</td>
     </tr>
     <tr>
