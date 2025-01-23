@@ -12,33 +12,33 @@
   <tbody>
     <tr>
       <td>1</td>
-      <td><a href="https://github.com/Elowix/python-mini-projects">Every idea is valuable! Let’s fill this list together</a></td>
-      <td><a href="https://github.com/Elowix">Elowix</a></td>
-      <td>90</td>
+      <td><a href="https://github.com/Bsbox-Devs/amir-osiris-projects">amir-osiris-projects-projects</a></td>
+      <td><a href="https://github.com/AmirOSiRis">AmirOSiRis</a></td>
+      <td>0</td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/QRCode-generator">QR Code Generator with Logo</a></td>
-      <td><a href="https://github.com/Elowix">Elowix</a></td>
-      <td>80</td>
+      <td><a href="https://github.com/Bsbox-Devs/devmrsadra-projects">devmrsadra-projects</a></td>
+      <td><a href="https://github.com/devmrsadra">DevMrSadra</a></td>
+      <td>0</td>
     </tr>
     <tr>
       <td>3</td>
-      <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/auto-website-clicker">Auto Website Clicker</a></td>
-      <td><a href="https://github.com/Elowix">Elowix</a></td>
-      <td>85</td>
+      <td><a href="https://github.com/Bsbox-Devs/arshdeap-projects">arshdeap-projects</a></td>
+      <td><a href="https://github.com/arshdeap">Arshdeap</a></td>
+      <td>0</td>
     </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/lottery">Lottery</a></td>
-      <td><a href="https://github.com/Elowix">Elowix</a></td>
-      <td>70</td>
+      <td><a href="https://github.com/bsbox-devs">در درسترس نیست</a></td>
+      <td><a href="https://github.com/bsbox-devs">در حال ثبت نام</a></td>
+      <td>0</td>
     </tr>
     <tr>
       <td>5</td>
-      <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/random-password-generator">Random Password Generator</a></td>
-      <td><a href="https://github.com/Elowix">Elowix</a></td>
-      <td>95</td>
+      <td><a href="https://github.com/bsbox-devs">در دسترس نیست</a></td>
+      <td><a href="https://github.com/bsbox-devs">در حال ثبت نام</a></td>
+      <td>0</td>
     </tr>
   </tbody>
 </table>
