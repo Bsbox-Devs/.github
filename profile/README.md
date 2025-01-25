@@ -41,13 +41,13 @@
       <td>0</td>
     <tr>
       <td>6</td>
-      <td><a href="https://github.com/Bsbox-Devs">در حال بررسی</a></td>
-      <td><a href="https://github.com/Bsbox-Devs">در دسترس نیست</a></td>
+      <td><a href="https://github.com/Bsbox-Devs">...</a></td>
+      <td><a href="https://github.com/Bsbox-Devs">...</a></td>
       <td>0</td>
     <tr>
       <td>7</td>
-      <td><a href="https://github.com/Bsbox-Devs">در حال بررسی</a></td>
-      <td><a href="https://github.com/Bsbox-Devs">در دسترس نیست</a></td>
+      <td><a href="https://github.com/Bsbox-Devs/mahziar2-projects">mahziar2-projects</a></td>
+      <td><a href="https://github.com/mahziar2">Mahziar2</a></td>
       <td>0</td>
     <tr>
       <td>8</td>
