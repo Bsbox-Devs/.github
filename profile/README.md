@@ -41,8 +41,8 @@
       <td>0</td>
     <tr>
       <td>6</td>
-      <td><a href="https://github.com/Bsbox-Devs/sbgamer2">sbgamer2</a></td>
-      <td><a href="https://github.com/SBgamer2">SBgamer2-projects</a></td>
+      <td><a href="https://github.com/Bsbox-Devs/sbgamer2">sbgamer2-projects</a></td>
+      <td><a href="https://github.com/SBgamer2">SBgamer2</a></td>
       <td>0</td>
     <tr>
       <td>7</td>
